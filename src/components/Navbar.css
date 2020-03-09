@@ -1,0 +1,18 @@
+
+#basic-nav-dropdown{
+    color: #fff !important;
+    text-decoration: none;
+  }
+  .navbar .dropdown-menu{
+      left: auto !important;
+      right:0;
+  }
+  
+.navbar{
+    background-color:  #39424e;
+    color: #fff !important;
+ }
+ .navbar-brand,.navbar-text{
+     color: #fff !important;
+ }
+ 

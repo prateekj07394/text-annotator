@@ -1,0 +1,70 @@
+ export const data = [
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097deff06a8",
+      "text": "Confidential Information does not include any information that (i) is or becomes publicly available without breach of this Agreement, (ii) is known to the Receiving Party at the time of its receipt from the Disclosing Party",
+      "prev_text": "",
+      "next_text": "(iii) is received from a third party who did not acquire or disclose such information by a wrongful or tortious act, or (iv) is independently developed by the Receiving Party without reference to any Confidential Information."
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-3e09deff06a8",
+      "text": "This Agreement is governed by the laws of the State of California, without reference to its choice of law rules. ",
+      "prev_text": "12.6",
+      "next_text": "Exclusive jurisdiction over and venue of any suit arising out of or relating to this Agreement will be in the state and federal courts of the State of California."
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097def90eg3",
+      "text": "the Company will not, directly or indirectly, solicit for hire, solicit for employment, or hire or employ any of Fewtrick's directors, officers or employees",
+      "prev_text": "For a period of two (2) years from the date hereof, without Fewtrick’s prior written consent, ",
+      "next_text": ""
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b109b",
+      "text": "12.1This Agreement will not create a joint venture, partnership or other formal business relationship or entity of any kind, or an obligation to form any such relationship or entity.  Each party will act as an independent contractor and not as an agent of the other party for any purpose, and neither will have the authority to bind the other.",
+      "prev_text": "",
+      "next_text": ""
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b1092",
+      "text": "9.Injunctive Relief.  The Receiving Party acknowledges that disclosure or use of Confidential Information in violation of this Agreement will cause irreparable harm to the Disclosing Party for which monetary damages will be difficult to ascertain or an inadequate remedy.  The Disclosing Party will have the right to seek injunctive relief for any violation of this Agreement.",
+      "prev_text": "10.Scope; Termination.",
+      "next_text": "This Agreement is intended to cover Confidential Information received by the Receiving Party both prior and subsequent to the date hereof. "
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b109c",
+      "text": "This Agreement will terminate automatically upon the earlier of (i) the termination of the parties business relationship, ",
+      "prev_text": "This Agreement is intended to cover Confidential Information received by the Receiving Party both prior and subsequent to the date hereof. ",
+      "next_text": "(ii) one (1) year from the date hereof and (iii) the entering into of a definitive agreement between the parties; provided, however, that the Receiving Party’s obligations with respect to the Confidential Information will survive for one (1) year following such termination. "
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b109d",
+      "text": "For purposes of this Agreement, with respect to each party hereto, “Affiliate” means any entity that directly or indirectly controls, is controlled by or is under common control with that party. ",
+      "prev_text": "As used in this Agreement, “Confidential Information” means all nonpublic information disclosed by one party, its Affiliates, or the agents of any of the foregoing (collectively, the “Disclosing Party”) to the other party, its Affiliates, or the agents of any of the foregoing (collectively, the “Receiving Party”), that is designated as confidential or that, given the nature of the information or the circumstances surrounding its disclosure, reasonably should be considered as confidential. ",
+      "next_text": "Confidential Information includes, without limitation (i) nonpublic information relating to the Disclosing Party’s technology, customers, business plans, promotional and marketing activities, finances and other business affairs."
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b1082",
+      "text": "The Receiving Party will notify the Disclosing Party promptly upon discovery of any unauthorized use or disclosure of Confidential Information or any breach of this Agreement by the Receiving Party.  The Receiving Party will cooperate with the Disclosing Party in every reasonable way to help the Disclosing Party regain possession of such Confidential Information and prevent its further unauthorized use and disclosure.",
+      "prev_text": "7.Notice of Unauthorized Use. ",
+      "next_text": "Return or Destruction of Confidential Information.  The Receiving Party will return or destroy all Confidential Information (in any form and including, without limitation, all summaries, copies and excerpts of Confidential Information) promptly following the Disclosing Party’s written request; provided, that the Receiving Party shall not be required to return or destroy copies of any electronic records or files containing the Confidential Information, which have been created pursuant to automatic archiving or back-up procedures, that would be unreasonably burdensome to return or destroy. "
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b10a0",
+      "text": "Return or Destruction of Confidential Information. ",
+      "prev_text": "The Receiving Party will notify the Disclosing Party promptly upon discovery of any unauthorized use or disclosure of Confidential Information or any breach of this Agreement by the Receiving Party.  The Receiving Party will cooperate with the Disclosing Party in every reasonable way to help the Disclosing Party regain possession of such Confidential Information and prevent its further unauthorized use and disclosure.",
+      "next_text": "The Receiving Party will return or destroy all Confidential Information (in any form and including, without limitation, all summaries, copies and excerpts of Confidential Information) promptly following the Disclosing Party’s written request; provided, that the Receiving Party shall not be required to return or destroy copies of any electronic records or files containing the Confidential Information, which have been created pursuant to automatic archiving or back-up procedures, that would be unreasonably burdensome to return or destroy.  "
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b10eb",
+      "text": "Any party may from time to time change such address by giving the other party notice ",
+      "prev_text": "12.7 All notices hereunder will be given in writing, will refer to this Agreement and will be personally delivered or sent by overnight courier or registered or certified mail (return receipt requested) to the address set forth below the parties’ signatures at the end this Agreement.  ",
+      "next_text": "of such change in accordance with this Section 12.7."
+    },
+    {
+      "Id": "8e993e4b-69b0-4dcd-b2b6-d097de23b109d",
+      "text": "9.Injunctive Relief.  The Receiving Party acknowledges that disclosure or use of Confidential Information in violation of this Agreement will cause irreparable harm to the Disclosing Party for which monetary damages will be difficult to ascertain or an inadequate remedy.  The Disclosing Party will have the right to seek injunctive relief for any violation of this Agreement.",
+      "prev_text": "At the Disclosing Party’s option, the Receiving Party will acknowledge in writing its compliance with this Section.",
+      "next_text": "Scope; Termination."
+    }
+  
+  ]
+  

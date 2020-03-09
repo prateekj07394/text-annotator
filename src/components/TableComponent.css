@@ -1,0 +1,23 @@
+tbody tr:nth-of-type(odd) {
+    background-color: #fafafa !important;
+}
+table.table thead th {
+    border-bottom: 1px solid #ddd;
+}
+tr{
+    transition: .1s all;
+}
+td,th{
+    padding: 1rem !important;
+}
+.text{
+    color:#0062cc;
+}
+.label-warning{
+    background-color: #f0ad4e;
+    border-radius: 1020px;
+}
+.fa-mouse:hover{
+    transform: scale(1.3);
+    transition: .2s all linear;
+}
